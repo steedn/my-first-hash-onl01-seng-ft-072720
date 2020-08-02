@@ -39,6 +39,7 @@ def adding
                   "oil paintings" => 3
                  }
   return shipping_manifest["oil paintings"]
+  binding.pry
   # add 2 muskets to the shipping_manifest hash below
 
 
